@@ -1,0 +1,39 @@
+# Node modules and package manager logs
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Next.js build output and static export
+.next
+out
+
+# Local environment files (do NOT ignore lockfiles or package.json)
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+
+# Editor directories and system files
+.DS_Store
+.vscode/
+.idea/
+
+# Git
+.git
+.gitignore
+
+# Testing / coverage
+coverage
+*.lcov
+
+# Build output
+dist
+build
+
+# Misc
+.parcel-cache
+.next/cache
